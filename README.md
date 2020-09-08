@@ -9,4 +9,4 @@ Pokemon list with PHP test consume api rest / json
 # commands
 
 - run in terminal command: composer install
-- later insert command: php artisan install
+- later insert command: php artisan serve
