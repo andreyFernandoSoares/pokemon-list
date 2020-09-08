@@ -6,5 +6,7 @@ Pokemon list with PHP test consume api rest / json
 - PHP 7.4
 - Composer
 
-run in terminal command: composer install
-later insert command: php artisan install
+# commands
+
+- run in terminal command: composer install
+- later insert command: php artisan install
