@@ -1,9 +1,10 @@
 # pokemon-list
 Pokemon list with PHP test consume api rest / json
 
-# requisitos
+# requirements
 
 - PHP 7.4
 - Composer
 
-rodar o comando: php artisan serve
+run in terminal command: composer install
+later insert command: php artisan install
